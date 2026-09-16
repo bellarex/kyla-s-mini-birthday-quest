@@ -1,1 +1,0 @@
-.photo-strip{display:flex;justify-content:center;gap:9px;flex-wrap:wrap;margin:16px auto}.photo-strip img{width:86px;height:66px;object-fit:cover;border:3px solid #f7d9ff;border-radius:10px;transform:rotate(-2deg);box-shadow:0 5px 12px #18072d88}.photo-strip img:nth-child(even){transform:rotate(2deg)}
