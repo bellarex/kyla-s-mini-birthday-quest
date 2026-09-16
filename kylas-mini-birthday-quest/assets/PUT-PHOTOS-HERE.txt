@@ -1,0 +1,9 @@
+PUT YOUR PHOTOS IN THIS FOLDER.
+
+Suggested filenames:
+- kyla-amabella-1.jpg
+- kyla-amabella-2.jpg
+- trio-1.jpg
+- trio-2.jpg
+
+If you choose different filenames, edit the photos list in the PERSONALIZATION section at the top of ../game.js.
